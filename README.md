@@ -4,7 +4,7 @@
 </p>
 
 <p>
-	<img src="https://komarev.com/ghpvc/?username=gremislaw&color=1C8C8C&style=for-the-badge" alt="Dazhy's Github Profile Views">
+	[comment]: <> (<img src="https://komarev.com/ghpvc/?username=gremislaw&color=1C8C8C&style=for-the-badge" alt="Dazhy's Github Profile Views">)
 	<a href="https://t.me/gremislaw"><img draggable="false" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
@@ -25,10 +25,10 @@ My hobbies include watching Anime, Video Games, Guitar and late night walks!
  
 
 ## Statistics 
-[![Dazhy's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=gremislaw&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Dazhy's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gremislaw&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Dazhy's GitHub Stats (dark)](https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Dazhy's GitHub Stats (light)](https://github-readme-stats-emins-projects-84f18f4f.vercel.app/api?username=epsilon-alpha&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars,issues,contribs&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 &nbsp;
-[![Dazhy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gremislaw&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Dazhy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gremislaw&hide=makefile,cmake&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Dazhy's github activity graph](https://github-readme-activity-graph-nu.vercel.app/graph?username=gremislaw&custom_title=Dazhy's%20Contribution%20Graph&hide_border=true&theme=tokyo-night&bg_color=none)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
