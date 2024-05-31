@@ -14,9 +14,9 @@
 ## <a align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></a>
 
 
-# Dazhy here! Currently studying at Applied Mathematics, NUST MISIS. For addition studying at School21.
+### Dazhy here! Currently studying at Applied Mathematics, NUST MISIS. For addition studying at School21.
 
-# My hobbies include watching Anime, Video Games, Guitar and late night walks!
+### My hobbies include watching Anime, Video Games, Guitar and late night walks!
 
 ## Languages and Tools
 [![My Languages](https://skillicons.dev/icons?i=py,bash,cpp,c)](https://skillicons.dev)
