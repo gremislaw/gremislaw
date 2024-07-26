@@ -11,7 +11,7 @@
 <div style="width:100%;height:0;padding-bottom:88%;position:relative;"><img src="https://i.pinimg.com/originals/3b/59/ac/3b59acbfa00430117fda937cc6783903.gif" class="giphy-embed" alt="Kirito"></div>
 
 
-## <a align="center">Hey there! <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></a>
+## <a align="center">Hey there! <img height="" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></a>
 
 
  ##### Dazhy here! Currently studying at Applied Mathematics, NUST MISIS. For addition studying at School21.
