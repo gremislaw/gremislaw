@@ -19,9 +19,9 @@
  ##### My hobbies include watching Anime, Video Games, Guitar and late night walks!
 
 ## Languages and Tools
-[![My Languages](https://skillicons.dev/icons?i=py,bash,cpp,c,golang)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=golang,cpp,c,py,bash)](https://skillicons.dev)
 <br>
-[![My Tools](https://skillicons.dev/icons?i=linux,git,gitlab,postgres,mysql,flask,django,nginx,docker,vscode,vim,cmake&perline=4)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=linux,git,gitlab,postgres,mysql,nginx,docker,vscode,vim,cmake&perline=5)](https://skillicons.dev)
  
 
 ## Statistics 
